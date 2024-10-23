@@ -1,4 +1,5 @@
-Lab 2: Loading, Displaying, and Saving Images
-* Click on ”Files” on the top-right corner of your screen
-* Click on “Settings” and then to Project: “Name of Your Project”
-* Click on “Python Interpreter” (On Mac, you can find “Settings”
+# Lab 2: Loading, Displaying, and Saving Images
+## Loading images with OpenCV
+## Displaying images with OpenCV
+## Saving images with OpenCV
+
