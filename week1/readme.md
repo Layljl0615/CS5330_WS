@@ -15,8 +15,6 @@ Setting up OpenCV in Visual Studio Code
 * python –m venv myvenv
 * .\myvenv\Scripts\activate
 * pip install opencv-python
-Info from:
-https://www.youtube.com/watch?v=ZQcIFCBeSgM&ab_channel=TheCodeCity
 
 Setting up OpenCV in Command Line
 * Terminal on Mac (or cmd.exe in Windows)
